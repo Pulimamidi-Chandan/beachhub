@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Edit, Home, X } from "lucide-react";
 import { Link } from "react-router-dom";
-import Avatar from "../assets/avatar.png";
+import Avatar from "../assets/Avatar.png";
 import axios from "axios";
 
 const Profile = () => {
