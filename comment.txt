@@ -1,0 +1,5 @@
+cd serve
+ npm install --save -dev nodemon
+
+cd client
+npm i
